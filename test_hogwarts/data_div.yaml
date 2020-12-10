@@ -1,0 +1,16 @@
+-
+ - 9
+ - 3
+ - 3
+-
+ - -16
+ - -2
+ - 8
+-
+ - 5000
+ - 25
+ - 200
+-
+ - 6
+ - 0
+ - "ZeroDivisionError('division by zero')"
